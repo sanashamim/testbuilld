@@ -1,0 +1,6 @@
+D:\flexdeploy\work\1\1\temp\msbuild-example\MsbuildLibrary\bin\Debug\MsbuildLibrary.dll
+D:\flexdeploy\work\1\1\temp\msbuild-example\MsbuildLibrary\bin\Debug\MsbuildLibrary.pdb
+D:\flexdeploy\work\1\1\temp\msbuild-example\MsbuildLibrary\obj\Debug\MsbuildLibrary.csproj.CoreCompileInputs.cache
+D:\flexdeploy\work\1\1\temp\msbuild-example\MsbuildLibrary\obj\Debug\MsbuildLibrary.dll
+D:\flexdeploy\work\1\1\temp\msbuild-example\MsbuildLibrary\obj\Debug\MsbuildLibrary.pdb
+D:\flexdeploy\work\1\1\temp\msbuild-example\MsbuildLibrary\obj\Debug\MsbuildLibrary.csprojAssemblyReference.cache
